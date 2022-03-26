@@ -1,0 +1,12 @@
+shouldReturnNightBetweenZeroAndSix:Retorna "night" si la hora analizada cumple el requisito de ser antes de las 6 y
+después de las 0 horas.
+
+shouldReturnMorningBetweenTwelveAndSix:Retorna "Morning" si la hora analizada cumple el requisito de ser menos de las
+12 y después de las 6
+
+shouldReturnAfternoonBetweenEighteenAndTwelve:Retorna "Afternoon" si la hora analizada cumple el requisito de ser menos
+de las 18 y después de las 12
+
+shouldReturnEveningHigherEighteen:Retorna "Evening" si la hora analizada cumple el requisito de ser mas de las 18 horas
+
+shouldReturnInvalidHourHigherTwentyFourHours:Retorna "Invalid hour" si la hora es fuera del rango de 24 horas.
