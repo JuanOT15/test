@@ -10,3 +10,11 @@ de las 18 y después de las 12
 shouldReturnEveningHigherEighteen:Retorna "Evening" si la hora analizada cumple el requisito de ser mas de las 18 horas
 
 shouldReturnInvalidHourHigherTwentyFourHours:Retorna "Invalid hour" si la hora es fuera del rango de 24 horas.
+
+Test de pruebas de herokuapp
+
+En la Primera clase parcialTest el public void shouldOpenHerokuappMultipleWindows abre herokuapp en la sección de windows, busca un elemento
+de botón llamado "Click Here" y lo abre, en consecuencia se abre una nueva pestaña.
+
+En la segunda clase parcialTest el public void shouldOpenHerokuappDownload  abre herokuapp en la sección de download, busca varios elementos
+y los ejecuta, descargandolos de manera simultánea.
